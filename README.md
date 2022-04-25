@@ -6,3 +6,4 @@
 	- in featureA and committed
 	- testing echo
 	- testing rebase
+	- testing remote & branches
